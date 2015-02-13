@@ -1,6 +1,6 @@
 package server;
 
-import java.net.*;
+import java.net.Socket;
 
 public class Client {
     private Socket socket;
